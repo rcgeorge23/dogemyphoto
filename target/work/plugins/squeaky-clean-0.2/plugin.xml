@@ -1,0 +1,17 @@
+<plugin name='squeaky-clean' version='0.2' grailsVersion='2.0 &gt; *'>
+  <author>Tommy Barker</author>
+  <authorEmail>mingus.karate@gmail.com</authorEmail>
+  <title>Squeaky Clean Plugin</title>
+  <description>Adds tools to keep your project structure clean</description>
+  <documentation>https://github.com/upenn-libraries/grails-squeaky-clean-plugin</documentation>
+  <type>SqueakyCleanGrailsPlugin</type>
+  <resources />
+  <repositories>
+    <repository name='grailsCentral' url='http://grails.org/plugins' />
+    <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements />
+  <behavior />
+</plugin>

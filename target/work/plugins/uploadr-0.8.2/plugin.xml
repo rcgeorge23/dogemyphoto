@@ -1,0 +1,13 @@
+<plugin name='uploadr' version='0.8.2' grailsVersion='1.3.7 &gt; *'>
+  <author>Jeroen Wesbeek</author>
+  <authorEmail>work@osx.eu</authorEmail>
+  <title>A HTML5 drag and drop multi-file upload plugin</title>
+  <description>A HTML5 drag and drop multi-file upload plugin</description>
+  <documentation>https://github.com/4np/grails-uploadr/blob/master/README.md</documentation>
+  <type>UploadrGrailsPlugin</type>
+  <resources>
+    <resource>UploadrPluginResources</resource>
+    <resource>hungry.wombat.UploadController</resource>
+    <resource>hungry.wombat.UploadrTagLib</resource>
+  </resources>
+</plugin>
